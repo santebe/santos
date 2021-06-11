@@ -1,0 +1,9 @@
+{
+	"name": "fabricateste",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "e0dc96a5-fd91-44b7-a1a5-26de30b2fa20",
+		"tenantId": "97fa1f96-7877-469f-aa37-1f8568e3a3ff"
+	}
+}
